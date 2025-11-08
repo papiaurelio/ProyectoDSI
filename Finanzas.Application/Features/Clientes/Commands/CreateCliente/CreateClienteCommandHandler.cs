@@ -6,18 +6,18 @@ using Finanzas.Application.Models;
 using MediatR;
 using Microsoft.Extensions.Logging;
 
-namespace Finanzas.Application.Features.Clientes.Commands
+namespace Finanzas.Application.Features.Clientes.Commands.CreateCliente
 {
-    public class ClienteComandHandler : IRequestHandler<ClienteComand, Guid>
+    public class CreateClienteCommandHandler : IRequestHandler<CreateClienteCommand, Guid>
     {
 
         private readonly IClienteRepository _clienteRepository;
         private readonly IMapper _mapper;
         private readonly IEmailService _emailService;
-        private readonly ILogger<ClienteComandHandler> _logger;
+        private readonly ILogger<CreateClienteCommandHandler> _logger;
 
-        public ClienteComandHandler(IClienteRepository clienteRepository, 
-            IMapper mapper, IEmailService emailService, ILogger<ClienteComandHandler> logger)
+        public CreateClienteCommandHandler(IClienteRepository clienteRepository, 
+            IMapper mapper, IEmailService emailService, ILogger<CreateClienteCommandHandler> logger)
         {
             _clienteRepository = clienteRepository;
             _mapper = mapper;
@@ -25,7 +25,7 @@ namespace Finanzas.Application.Features.Clientes.Commands
             _logger = logger;
         }
 
-        public async Task<Guid> Handle(ClienteComand request, CancellationToken cancellationToken)
+        public async Task<Guid> Handle(CreateClienteCommand request, CancellationToken cancellationToken)
         {
             var clienteEntity = _mapper.Map<Cliente>(request);
             var nuevoCliente = await _clienteRepository.AddAsync(clienteEntity);

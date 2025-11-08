@@ -1,105 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\appfinanzas\\finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\appfinanzas\\finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\appfinanzas\\finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\prestamosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\prestamosvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\appfinanzas\\finanzas.application\\features\\clientes\\commands\\clientecomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\clientes\\commands\\clientecomandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\appfinanzas\\finanzas.application\\features\\clientes\\commands\\clientecomand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\clientes\\commands\\clientecomand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PrestamosVm.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\PrestamosVm.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\PrestamosVm.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\PrestamosVm.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\PrestamosVm.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:33:00.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetPrestamosListQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQueryHandler.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQueryHandler.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQueryHandler.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQueryHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:32:50.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetPrestamosListQuery.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:32:45.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteComandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComandHandler.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComandHandler.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComandHandler.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComandHandler.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwDYAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:32:23.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClienteComand.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComand.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComand.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\AppFinanzas\\Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComand.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Clientes\\Commands\\ClienteComand.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T04:32:03.262Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

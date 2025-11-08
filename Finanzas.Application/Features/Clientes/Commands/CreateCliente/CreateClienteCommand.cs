@@ -2,9 +2,9 @@
 using MediatR;
 
 
-namespace Finanzas.Application.Features.Clientes.Commands
+namespace Finanzas.Application.Features.Clientes.Commands.CreateCliente
 {
-    public class ClienteComand : IRequest<Guid>
+    public class CreateClienteCommand : IRequest<Guid>
     {
         public string Nombre { get; set; } = string.Empty;
         public string Apellido { get; set; } = string.Empty;
@@ -12,6 +12,6 @@ namespace Finanzas.Application.Features.Clientes.Commands
         public string Email { get; set; } = string.Empty;
         public string Direccion { get; set; } = string.Empty;
         //public DateTime FechaIngreso { get; set; }
-        public Decimal Calificacion { get; set; } = 5.0m;
+        public decimal Calificacion { get; set; } = 5.0m;
     }
 }
