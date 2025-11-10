@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\",
+  "WorkspaceRootPath": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\finanzas.api\\finanzas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|solutionrelative:finanzas.api\\finanzas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\dsi\\dddfinanzas-main\\appfinanzas.domain\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|solutionrelative:appfinanzas.domain\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\dsi\\dddfinanzas-main\\finanzas.api\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|solutionrelative:finanzas.api\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\dsi\\dddfinanzas-main\\finanzas.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|solutionrelative:finanzas.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrestamosController.cs",
+              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.API\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "Finanzas.API\\Controllers\\PrestamosController.cs",
+              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.API\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "Finanzas.API\\Controllers\\PrestamosController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:32:01.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Finanzas.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.API\\Finanzas.API.csproj",
-              "RelativeDocumentMoniker": "Finanzas.API\\Finanzas.API.csproj",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.API\\Finanzas.API.csproj",
-              "RelativeToolTip": "Finanzas.API\\Finanzas.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-10T02:52:01.096Z",
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\AppFinanzas.Domain\\Prestamo.cs",
+              "RelativeDocumentMoniker": "AppFinanzas.Domain\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\AppFinanzas.Domain\\Prestamo.cs",
+              "RelativeToolTip": "AppFinanzas.Domain\\Prestamo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:28:55.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Finanzas.API\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Finanzas.API\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:28:00.912Z",
               "EditorCaption": ""
             }
           ]

@@ -1,6 +1,7 @@
 ﻿
 
 using AppFinanzas.Domain.Common;
+using System.Text.Json.Serialization;
 
 namespace AppFinanzas.Domain
 {
@@ -8,6 +9,7 @@ namespace AppFinanzas.Domain
     {
         public Guid Cliente_Id { get; set; }
 
+        [JsonIgnore]
         public virtual Cliente? Cliente { get; set; }
 
         public decimal? Monto { get; set; }
