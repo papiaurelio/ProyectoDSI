@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\finanzas.api\\finanzas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC720DFD-2B7A-4562-B764-75042E47BFAF}|Finanzas.API\\Finanzas.API.csproj|solutionrelative:finanzas.api\\finanzas.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Finanzas.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.API\\Finanzas.API.csproj",
+              "RelativeDocumentMoniker": "Finanzas.API\\Finanzas.API.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.API\\Finanzas.API.csproj",
+              "RelativeToolTip": "Finanzas.API\\Finanzas.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T02:52:01.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

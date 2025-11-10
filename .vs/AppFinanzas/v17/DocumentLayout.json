@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\dsi\\dddfinanzas-main\\finanzas.application\\features\\clientes\\commands\\deletecliente\\deleteclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\clientes\\commands\\deletecliente\\deleteclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\prestamos\\queries\\getprestamoslist\\getprestamoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\byron\\documents\\desarrollo\\asp\\dsi\\dddfinanzas-main\\finanzas.application\\features\\clientes\\commands\\deletecliente\\deleteclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\features\\clientes\\commands\\deletecliente\\deleteclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\appfinanzas.domain\\common\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|solutionrelative:appfinanzas.domain\\common\\basedomainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\appfinanzas.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|solutionrelative:appfinanzas.domain\\common\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\appfinanzas.domain\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|solutionrelative:appfinanzas.domain\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\appfinanzas.domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BECB72DF-47B4-42AC-A520-374DC5A152FD}|AppFinanzas.Domain\\AppFinanzas.Domain.csproj|solutionrelative:appfinanzas.domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|c:\\users\\lenovo\\desktop\\proyectodsi\\finanzas.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5F7D1E-7373-4A67-A0FB-63E7EFD48F3D}|Finanzas.Application\\Finanzas.Application.csproj|solutionrelative:finanzas.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeleteClienteCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommandHandler.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommandHandler.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommandHandler.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "GetPrestamosListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
+              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
+              "RelativeToolTip": "Finanzas.Application\\Features\\Prestamos\\Queries\\GetPrestamosList\\GetPrestamosListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T09:03:04.664Z",
+              "WhenOpened": "2025-11-10T03:16:50.683Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DeleteClienteCommand.cs",
-              "DocumentMoniker": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommand.cs",
-              "RelativeDocumentMoniker": "Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommand.cs",
-              "ToolTip": "C:\\Users\\byron\\Documents\\DESARROLLO\\ASP\\DSI\\DDDFinanzas-main\\Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommand.cs",
-              "RelativeToolTip": "Finanzas.Application\\Features\\Clientes\\Commands\\DeleteCliente\\DeleteClienteCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "BaseDomainModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Common\\BaseDomainModel.cs",
+              "RelativeDocumentMoniker": "AppFinanzas.Domain\\Common\\BaseDomainModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Common\\BaseDomainModel.cs",
+              "RelativeToolTip": "AppFinanzas.Domain\\Common\\BaseDomainModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T09:02:04.381Z",
+              "WhenOpened": "2025-11-10T03:16:12.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Common\\ValueObject.cs",
+              "RelativeDocumentMoniker": "AppFinanzas.Domain\\Common\\ValueObject.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Common\\ValueObject.cs",
+              "RelativeToolTip": "AppFinanzas.Domain\\Common\\ValueObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:16:10.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Prestamo.cs",
+              "RelativeDocumentMoniker": "AppFinanzas.Domain\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Prestamo.cs",
+              "RelativeToolTip": "AppFinanzas.Domain\\Prestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:16:07.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppFinanzas.Domain\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\AppFinanzas.Domain\\Cliente.cs",
+              "RelativeToolTip": "AppFinanzas.Domain\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:16:04.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Finanzas.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\ProyectoDSI\\Finanzas.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Finanzas.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:11:17.575Z",
               "EditorCaption": ""
             }
           ]
